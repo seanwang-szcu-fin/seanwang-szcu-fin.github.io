@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Dr.Weicheng (Sean) Wang's personal academic page. I'm teaching in Department of Economics,[School of Digital Economics and Management](https://sdem.szcu.edu.cn/)，[Suzhou City University](https://www.szcu.edu.cn/)
+Hi, this is Dr.Weicheng Wang's personal academic page. I'm teaching in Department of Economics,[School of Digital Economics and Management](https://sdem.szcu.edu.cn/)，[Suzhou City University](https://www.szcu.edu.cn/)
 
 If you are interested in my background and experiences, you are welcome to read through my [C.V.](..\assets\WeichengWang_CV_202409.pdf)
+
